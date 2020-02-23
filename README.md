@@ -8,7 +8,7 @@ A great solution to this problem is `pyenv`,
 
 > pyenv lets you easily switch between multiple versions of Python. It’s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
 
-For more information on `pyenv` see (https://github.com/pyenv/pyenv)
+For more information on `pyenv` see https://github.com/pyenv/pyenv
 
 
 It's quite easy to get `pyenv` set up on your Mac.
