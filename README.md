@@ -1,9 +1,9 @@
 # Avoiding Conflicting Dependancies, macOS Python Development with pyenv
 
 
-By default, macOS includes python 2.7. This version of Python reached EOL January 2020, and is not recommended for use. When working on multiple projects, you may stat to notice that your projects may (probably will) have conflicting dependancies. One of those could be python itself, particularly the default installation.
+By default, macOS includes python 2.7. This version of Python reached EOL January 2020, and is not recommended for use. When working on multiple projects, you might start to notice that your projects may (probably will) have conflicting dependancies. One of those could be python itself, particularly the default installation.
 
-A great solution to this problem is `pyenv`, from the support documentation
+A great solution to this problem is `pyenv`, 
 
 
 > pyenv lets you easily switch between multiple versions of Python. It’s simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
